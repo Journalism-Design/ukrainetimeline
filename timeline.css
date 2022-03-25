@@ -1,0 +1,37 @@
+.container { padding: 2em 0;}
+h1 {
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size:8em;
+    line-height:1em;
+}
+h3 {font-family: 'Source Serif Pro', serif;
+    color:#6B6B6B;
+    font-style: italic; }
+h5 {
+    font-family: 'Source Serif Pro', serif;
+    color:#6B6B6B;
+}
+h2 {
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: 60px;
+}
+.titlecard { padding-top:7rem;}
+.carousel-caption {
+    color:black;
+    text-align: left;
+}
+.carousel-caption p {
+    font-family: 'Source Serif Pro', serif;
+}
+.carousel-item {
+    height: 50rem;
+}
+.carousel-item > img {
+    height: 25rem;
+}
+button.active { 
+    background-color: #E45130;
+}
+.carousel-dark .carousel-indicators [data-bs-target] {
+    background-color: #E45130;
+}
